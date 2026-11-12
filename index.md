@@ -79,3 +79,45 @@ Online service providers may process information outside Rwanda.
 ## 7. Retention and deletion
 
 Personal records are retained on your device until deleted or the app’s stored data is removed.
+
+Online account and shared contribution records are retained to support the account and group history until deletion is requested or the records are otherwise removed. Closing a contribution fund does not itself erase its history.
+
+To request account and associated online data deletion, email **info.baracash@gmail.com**, preferably from the email address used to sign in. Use the subject **Bara Cash account deletion**.
+
+We may request information necessary to verify ownership. Never provide a password or mobile money PIN.
+
+Deletion requests are handled manually. We aim to complete verified requests within 30 days.
+
+Deleting an organiser’s account can also remove groups they own and associated records, affecting other members. We will explain this consequence when handling the request.
+
+Deleting online data does not automatically erase copies stored on your device, exported reports or copies held by other people. Uninstalling Bara Cash does not request online account deletion.
+
+## 8. Security
+
+Bara Cash uses protected sign-in token storage on supported Android devices and authenticated access controls for shared services.
+
+No storage or transmission system can guarantee absolute security. Protect your phone, Google account and exported reports against unauthorised access.
+
+## 9. Your choices and rights
+
+You can manage Android permissions, pause SMS tracking and choose whether to use shared features or export information.
+
+Contact **info.baracash@gmail.com** to request access, correction, deletion or restriction of online personal information, or to raise a privacy concern.
+
+You may also raise concerns with Rwanda’s Data Protection and Privacy Office.
+
+## 10. Age requirement
+
+Bara Cash is intended for users aged 18 and over.
+
+If you believe someone under 18 has provided personal information through Bara Cash, contact **info.baracash@gmail.com** so we can investigate and take appropriate action.
+
+## 11. Changes to this policy
+
+Updates will appear on this page with a revised effective date. Please review this page periodically.
+
+## 12. Contact
+
+**Bara Cash**
+
+Support, privacy and account deletion: **info.baracash@gmail.com**
